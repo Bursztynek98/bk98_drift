@@ -13,6 +13,7 @@ This script is designed to provide drift mechanics and HUD indicators in games. 
 ## How It Works
 1. **Angle Calculation**:
    - The script calculates the drift angle using the vehicle's velocity and rotation.
+   
    ![COUNTER](img/COUNTER.gif)
 
 2. **HUD Display**:
@@ -20,6 +21,7 @@ This script is designed to provide drift mechanics and HUD indicators in games. 
 
 3. **Multiplier System**:
    - Multipliers are applied to scores based on predefined thresholds.
+   
    ![MULTIPLIER](img/MULTIPLIER.gif)
 
 4. **Drift Initialization**:
